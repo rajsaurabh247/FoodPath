@@ -65,6 +65,11 @@ h2 {
 .hrfortitle {
     padding: 15px;
 }
-form{
+
+form {
     width: 60%;
+}
+
+#logo img {
+    height: 3rem;
 }
