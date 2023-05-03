@@ -266,19 +266,19 @@ hr {
     background-color: #bb1b1b;
     position: relative;
     /* top: 3105px; */
-    padding: 30px;
+    padding: 30px 20px;
     width: 100%;
     margin-top: -3%;
 }
 
 .linkedin {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 15px;
 }
 
 .github {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 15px;
 }
 
 .twitter {
